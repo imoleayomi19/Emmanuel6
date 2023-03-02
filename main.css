@@ -1,0 +1,14 @@
+nav{
+    background: rgb(219, 191, 191);
+    text-align: center;
+    width: 400px;
+    height: fit-content;
+    
+}
+
+em{
+    font-size:xx-small;
+}
+span{
+    font-size: large;
+}
